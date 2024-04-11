@@ -6,7 +6,7 @@ public class CoordinatePane {
         if (x>0)
         {
             if (y > 0) System.out.println("first");
-            if (y < 0) System.out.println("forth");
+            if (y < 0) System.out.println("fourth");
         }
         if (x < 0)
         {
